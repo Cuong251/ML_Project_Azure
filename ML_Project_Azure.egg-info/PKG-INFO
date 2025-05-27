@@ -1,0 +1,17 @@
+Metadata-Version: 2.4
+Name: ML_Project_Azure
+Version: 0.0.1
+Author: QliShad251
+Author-email: cuong.maileyugi@hcmut.edu.vn
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: seaborn
+Requires-Dist: matplotlib
+Requires-Dist: scikit-learn
+Requires-Dist: catboost
+Requires-Dist: xgboost
+Requires-Dist: dill
+Requires-Dist: Flask
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist
